@@ -4,6 +4,8 @@
 
 This is a **React + Vite** web application that fetches and displays the **most popular articles** from the **New York Times API**. Users can click on an article to view additional details inline with a smooth transition effect. The app is styled with **Tailwind CSS** and follows best React practices.
 
+🔗 **Live Demo:** [NY Times Articles App](https://ny-times-popular.vercel.app/)
+
 ## 📦 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
@@ -110,14 +112,6 @@ npx cypress run
 - **Cypress** 🧪 - End-to-End Testing
 
 ---
-
-## 🌍 Deployment Instructions (Optional)
-
-If deploying to **Vercel**:
-
-```sh
-vercel deploy - https://ny-times-popular.vercel.app/
-```
 
 Ensure `.env` variables are set in your hosting provider.
 
