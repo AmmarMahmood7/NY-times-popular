@@ -116,13 +116,7 @@ npx cypress run
 If deploying to **Vercel**:
 
 ```sh
-vercel deploy
-```
-
-Or for **Netlify**:
-
-```sh
-netlify deploy
+vercel deploy - https://ny-times-popular.vercel.app/
 ```
 
 Ensure `.env` variables are set in your hosting provider.
@@ -131,8 +125,7 @@ Ensure `.env` variables are set in your hosting provider.
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- **Ammar Mahmood**
+- [GitHub](https://github.com/AmmarMahmood7)
 
 🚀 **Happy Coding!** 🎉
